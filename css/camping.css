@@ -1,0 +1,77 @@
+
+
+.table-inp input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    margin-bottom: 10px;
+}
+.form-1{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 50%;
+    background-color: rgba(0, 255, 255,0.6);
+
+}
+.form-1:hover{
+    transform: scale(1.01,1.01);
+}
+.form-2{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: aliceblue;
+
+}
+.btn input[type="submit"]{
+    border: none;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(0, 195, 255);
+    font-size: 20px;
+}
+.btn input[type="submit"]:hover{
+    background-color:rgba(0, 255, 255,0.3) ;
+}
+
+.op{
+    border-color: rgba(107, 236, 115, 0.587);
+    width:100%;
+    background-color: rgba(107, 236, 115, 0.587);
+}
+.form-title{
+    text-align: center;
+    font-size: 35px;
+    font-family:fantasy ;
+    margin-bottom: 20px; 
+}
+.so-ican{
+    width: 5%;
+    display: inline-block;
+    background-color: rgba(240, 248, 255, 0.521);
+}
+
+
+.so-ican:hover{
+    transform: scale(1.1,1.1);
+}
+.map-1{
+    width: 90%;
+    margin-left:5% ;
+    position: relative;
+}
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+  color: #cccccc;
+  font-size: 30px;
+}
+.bottomright {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 18px;
+}

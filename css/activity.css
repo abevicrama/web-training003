@@ -1,0 +1,65 @@
+.trail-textarea{
+    padding: 5%;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+.trail-txt{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.atrials{
+  
+    width:98%;
+    height:auto;
+    background-color: rgba(245, 245, 220, 0.615);
+    box-shadow: 10px;
+    border-radius: 10px;
+    padding: 2%;
+    box-shadow: 20px;
+    
+}
+.atrials1{
+    margin: 2px;
+    place-content: center;
+    
+    
+    
+}
+.atrials:hover{
+    background-color: rgba(245, 245, 220, 0.888);
+    transform: scale(1.02,1.02);
+}
+.atrials2{
+    margin-left:  1%;
+
+}
+.trail1{
+    
+    width: 98%;
+}
+.trail-text-details{
+    text-align: center;
+    
+}
+.art{
+    display: inline-block;
+    width: 47%;
+    margin: 1%;
+}
+.art2{
+    width: 98%;
+    margin: 1%;
+
+}
+.tt{
+   font-size: 35px; 
+
+}
+.more{
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+    
+    
+}

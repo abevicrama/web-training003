@@ -1,0 +1,40 @@
+.trail-title-1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0, 0, 0, 0.737);
+    width: 50%;
+}
+.trail-image-1{
+    width: 39%;
+    height: 500px;
+    display: inline-block;
+    
+}
+.trail-image-1:hover{
+    transform: scale(1.01,1.01);
+}
+.trail-title-content{
+    color: aliceblue;
+    text-align: justify;
+    width: 59%;
+    display: inline-block;
+
+}
+.trail-content{
+    width: 98%;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.637);
+}
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
+
+.inline-code{
+    display: inline-block;
+}
